@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OOP Android API</string>
+    <string name="navigation_search" />
+    <string name="navigation_comparison" />
+    <string name="navigation_quiz" />
+    <string name="map_description">Map showing points of interest</string>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_search"
+        android:icon="@drawable/ic_search"
+        android:title="@string/navigation_search" />
+
+    <item
+        android:id="@+id/navigation_comparison"
+        android:icon="@drawable/ic_comparison"
+        android:title="@string/navigation_comparison" />
+
+    <item
+        android:id="@+id/navigation_quiz"
+        android:icon="@drawable/ic_quiz"
+        android:title="@string/navigation_quiz" />
+</menu>
